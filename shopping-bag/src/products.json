@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "title": "Sakız",
+      "price": 5,
+      "image": "https://static.ticimax.cloud/30771/uploads/urunresimleri/buyuk/vivident-storming-damla-sakiz-399e02.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Kola",
+      "price": 40,
+      "image": "https://ayb.akinoncdn.com/products/2019/01/18/1796/b792f041-5479-4d5f-a74e-233d5da474bc_size780x780_quality60_cropCenter.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Ayakkabı",
+      "price": 2400,
+      "image": "https://www.ayakkabicity.com/Uploads/UrunResimleri/buyuk/sanzelize-k-07-kadin-sneaker-ayakkabi-47cd.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Araba",
+      "price": 400000,
+      "image": "https://cdn-nq.toyzzshop.com/product/600x600/0f06b_Metal_Cek_Birak_Murat_131_Araba.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Gemi",
+      "price": 80000000,
+      "image": "https://i.ibb.co/sCbmRKV/Ekran-Resmi-2021-04-16-13-45-31.png"
+    },
+    {
+      "id": 6,
+      "title": "Xbos Series X",
+      "price": 22000,
+      "image": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/microsoft/thumb/108453-gorsel-1_large.jpg"
+    },
+    {
+      "id": 7,
+      "title": "MacBook",
+      "price": 85000,
+      "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/macbook-air-space-gray-select-201810?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1664472289661"
+    },
+    {
+      "id": 8,
+      "title": "iPad Pro",
+      "price": 19700,
+      "image": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/TeoriV2-106818-1_large.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Çanta",
+      "price": 4800,
+      "image": "https://i1.adis.ws/i/Marc_Jacobs/MJI_M0016156_481_F8F8F8_1-1_MAIN?sm=aspect&aspect=3:3.4&w=1592&qlt=65&img404=NOIMAGEMEDIUM_1-1&unsharp=0%2C1%2C1%2C7"
+    },
+    {
+      "id": 10,
+      "title": "Elmas Kolye",
+      "price": 3759,
+      "image": "https://bilimgenc.tubitak.gov.tr/sites/default/files/styles/bp-770px-custom_user_desktop_1x/public/diamond.jpg?itok=skYEGbQv"
+    },
+    {
+      "id": 11,
+      "title": "Sweatshirt",
+      "price": 850,
+      "image": "https://wwfmarket.com/cdn/shop/products/SWT-104XX_0108.jpg?v=1666260703&width=1400"
+    },
+    {
+      "id": 12,
+      "title": "Ekmek",
+      "price": 10,
+      "image": "https://suebeehomemaker.com/wp-content/uploads/2021/10/sliced-french-bread.jpg"
+    }
+  ]
